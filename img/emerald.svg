@@ -27,7 +27,7 @@
 		</defs>
 		<mask maskUnits="userSpaceOnUse" x="-2.9237" y="129.4141" width="79.4719" height="17.3333" id="SVGID_2_">
 			<g filter="url(#Adobe_OpacityMaskFilter)">
-				
+
 					<image overflow="visible" width="348" height="89" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBLAEsAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAANOAAAGggAACQH/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
@@ -105,11 +105,11 @@ tQWOD/QLem5Y8EYxhxx44FhH+SxLP7R+dP/Z" transform="matrix(0.24 0 0 0.24 -4.9237 12
 		<stop  offset="0" style="stop-color:#3F9F36"/>
 		<stop  offset="1" style="stop-color:#008A3B"/>
 	</linearGradient>
-	<polygon fill="url(#SVGID_4_)" points="58.5085,79.0047 36.8122,91.7322 15.1159,79.0047 15.1159,36.2716 36.8122,23.4141 
+	<polygon fill="url(#SVGID_4_)" points="58.5085,79.0047 36.8122,91.7322 15.1159,79.0047 15.1159,36.2716 36.8122,23.4141
 		58.5085,36.2716 	"/>
 </g>
 <g id="Livello_2" display="none">
-	
-		<text transform="matrix(1 0 0 1 -138.4556 198.0802)" display="inline" fill="#212121" font-family="'Signika-Semibold'" font-size="100">emerald</text>
+
+		<text transform="matrix(1 0 0 1 -138.4556 198.0802)" display="inline" fill="#212121" font-family="'Signika-Semibold'" font-size="100">NAKETER</text>
 </g>
 </svg>
