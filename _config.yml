@@ -2,11 +2,11 @@
 title: 나케터의 일상로그
 tagline: 강아지를 좋아하는 마케터 이야기
 description: "나영+마케터 나케터의 마케팅 스터디와 소소한 일상을 담은 블로그."
-url: "http://naketer.com"
+url: "https://naketer.com"
 author:
   name: "Naketer"
   email: "iam@naketer.com"
-  url: "http://naketer.com"
+  url: "https://naketer.com"
 
 # Build settings
 baseurl: /
