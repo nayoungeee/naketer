@@ -6,4 +6,4 @@ title: About naketer
 안녕하세요. 나케터 일상로그 입니다.
 
 ### About
-수정중
+나영+마케터 
