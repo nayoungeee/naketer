@@ -122,7 +122,6 @@ html, body {
 	max-width: 730px;
 	padding: 0 1.5rem;
 	padding-top: 30px;
-	line-height: 1000px;
 }
 
 #header {
@@ -166,6 +165,7 @@ html, body {
   @media (min-width: 940px) {
       margin-bottom: 1.3334em;
     }
+			line-height: 1000px;
 }
 
 .post+.post:before {
