@@ -3,7 +3,6 @@
 /* Required for footer to stick to the bottom */
 html, body {
 	height: 100%;
-	line-height: 1000px;
 }
 
 /* Navigation */
@@ -165,7 +164,6 @@ html, body {
   @media (min-width: 940px) {
       margin-bottom: 1.3334em;
     }
-			line-height: 1000px;
 }
 
 .post+.post:before {
