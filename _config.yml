@@ -14,7 +14,7 @@ markdown: kramdown
 source:
 destination:
 permalink: /:title
-paginate: 8
+paginate: 5
 paginate_path:
 
 # Default values
