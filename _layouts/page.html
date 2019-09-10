@@ -2,7 +2,14 @@
 layout: default
 ---
 <article id="page">
-	
+
   {{ content }}
 
 </article>
+
+
+<script>
+	fbq('track', 'ViewContent', {
+		content_name: 'title',
+	});
+</script>
